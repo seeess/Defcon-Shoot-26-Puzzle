@@ -12,19 +12,19 @@ The second section of the lanyard ciphertext moved to the Vigenère cipher. I le
 
 Interestingly multiple people mentioned they tried the key "second" which resulted in: 
 
+```
 GVWLIRCAVGLO HEUHREBU IZGZDEXN
-
 secondsecond secondse condseco
-
 oruxvokwtsyl pastebjq gltwlavz
+```
 
 Notice the "pastebjq" which is very close to pastebin. The reason this happened is the actual key length was 9 characters and not 6. So while "second" is part of the key, and it aligns with those 6 characters, the rest of the clear text is incorrect because the wrong key is used for those characters. The correct key is "thesecond" which results in:
 
+```
 GVWLIRCAVGLO HEUHREBU IZGZDEXN
-
 thesecondthe secondth esecondt
-
 nosteponsnek pastebin ehcxpruu
+```
 
 By going to [this pastebin link](https://pastebin.com/ehcxpruu) it gets you to step 3
 
