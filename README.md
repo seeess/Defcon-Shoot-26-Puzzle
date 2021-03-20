@@ -26,7 +26,7 @@ thesecondthe secondth esecondt
 nosteponsnek pastebin ehcxpruu
 ```
 
-By going to [this pastebin link](https://pastebin.com/ehcxpruu) it gets you to step 3
+By going to [this pastebin link](https://pastebin.com/eHcxpruu) it gets you to step 3
 
 ## [Step 3](https://pastebin.com/ehcxpruu)
 This step was the most work for me, I wrote some code in the [esoteric language "chicken"](https://esolangs.org/wiki/Chicken#Examples) which each operation is designated by the number of "chickens" on a line. Normally this wouldn't be hard to write a simple program that outputs some text, but you can take [at the whitepaper](https://isotropic.org/papers/chicken.pdf) or a [presentation](https://youtu.be/yL_-1d9OSdk?t=37) to see how much help that was. 
